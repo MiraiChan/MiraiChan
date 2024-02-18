@@ -1,4 +1,4 @@
-### Hello World, I'm Almira  👋
+## Hello World, I'm Almira  👋
  
 I am a beginner iOS Developer. I started my thorough training and introduction to the features of the iOS platform and the Apple ecosystem, tasks iOS developers do on a daily basis with the help of courses on iOS development from Yandex Practicum in 2023.
 
@@ -12,9 +12,26 @@ Git, conducting code review.
 \
 🌎 2024 Goals: Find a dream job and contribute to projects!
 <br />
+### Language
 
-### More information about my skills.
+<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 
+<br />
+
+### Tools
+
+<img align="left" alt="XCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+#### More information about my skills.
 During the training period, I implemented the following projects:
 
  [iOS-FakeNFT-StarterProject-Public](https://github.com/MiraiChan/iOS-FakeNFT-StarterProject-Public)
@@ -72,19 +89,3 @@ The main goals and objectives of the project included:
 [Counter](https://github.com/MiraiChan/Counter)
 \
 The first project in swift - an introduction to the basis iOS development. The goal was get the first experience with the user interface, to create interactive elements and see the results of their work, to know the idea how to connect interface elements with application logic, creating the first bridge between idea and reality, as well as gain the confidence to create own projects later. 
-
-### Language
-
-<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-
-<br />
-
-### Tools
-
-<img align="left" alt="XCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<br />
-
