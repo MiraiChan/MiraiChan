@@ -4,7 +4,8 @@ I am an iOS Developer. I speak English, Russian and German.
 
 ### 💡 My skills
 
-- SwiftUI, UIKit (Auto Layout and Storyboards), Combine, UserDefaults, Keychain, CoreData, Realm
+- SwiftUI, UIKit (Auto Layout and Storyboards), Combine, UserDefaults, Keychain, CoreData, RealmSwift, SwiftData
+- Firebase (FirebaseAI and FirebaseCore)
 - MVC, MVP, MVVM, MVVM + Coordinator
 - SOLID, DRY, YAGNI, KISS
 - REST API, Postman, Docker, Pagination, Unit & UI Testing
