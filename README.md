@@ -14,11 +14,10 @@ I am an iOS Developer. I speak English, Russian and German.
 
 ---
 
-🌎 **2026 Goals:** Find a dream job and contribute to impactful projects!
-
 ### Language
 
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br />
 
@@ -34,6 +33,7 @@ I am an iOS Developer. I speak English, Russian and German.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="OpenAI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 <br />
 <br />
 
