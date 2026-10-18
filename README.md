@@ -83,8 +83,8 @@ I am an iOS Developer. I speak English, Russian and German.
 
 ---
 
-#### SwiftUI + IMGLY CE.SDK Image Editor Demo:
+#### [SwiftUI + IMGLY CE.SDK Image Editor Demo](https://github.com/MiraiChan/IMGLY-CE.SDK-Demo)
 This is a minimal SwiftUI demo project showcasing integration of CreativeEditor SDK (CE.SDK) using the IMGLYUI-swift package.
 It allows users to pick an image, edit it using CE.SDK (apply filters, crop, add elements), and save both the result and the editing scene for future restoration.
 
-Tech Stack: SwiftUI, CE.SDK (IMGLYDesignEditor, IMGLYEngine), PhotosUI (image picker), MVVM Architecture, Async/Await, modern concurrency
+**Stack:**  SwiftUI, CE.SDK (IMGLYDesignEditor, IMGLYEngine), PhotosUI (image picker), MVVM Architecture, Async/Await, modern concurrency
