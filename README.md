@@ -36,17 +36,52 @@ I am an iOS Developer. I speak English, Russian and German.
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 <br />
 <br />
+<br />
 
-#### My last project NAL - AI praise App (private):
-- Developed a personal productivity & journaling iOS app with SwiftUI and MVVM architecture, focusing on a fluid, gesture-driven user experience. 
-- Engineered a hybrid AI architecture for real-time motivational feedback: integrated the Apple Foundation Model (AFM) for on-device inference (iOS 18+) and Firebase Gemini for cloud-based inference (iOS < 18). 
-- Optimized AI performance & scalability by transitioning from an initial local CoreML model (flan-t5-small, converted via Python) to the hybrid approach, implementing intelligent fallback templates for offline and rate-limit scenarios. 
-- Integrated Realm database for robust, offline-first data persistence of tasks, categories, and application state. • Implemented a Freemium monetization model using StoreKit, building a custom Paywall and subscription management system to seamlessly handle free-tier task limits and premium upgrades. 
-- Championed inclusive design by implementing comprehensive VoiceOver support, custom accessibility labels, and dynamic traits, ensuring a seamless experience for all users.
-- Built custom SwiftUI UI components (dropdowns, text fields) and designed advanced micro-animations (e.g., expanding circle animation on save) for a premium user feel. 
-- Created a robust settings module utilizing the UserNotifications framework for customizable local notification frequencies and persistent user preferences.
-  
-Tech Stack: Swift, SwiftUI, Combine, Realm, StoreKit, CoreML, Firebase (Firebase AI / Gemini), UserNotifications, MVVM, Python
+
+## My Apps
+
+### NAL - Not a Lazy!
+
+<img align="right" src="https://github.com/user-attachments/assets/bedab489-7ebb-49ad-bc9c-1ee32b35dc98" width="150" alt="NAL"/>
+
+*An AI-powered productivity app that celebrates your daily wins instead of overwhelming you with endless to-do lists.*
+
+**Stack:** Swift · SwiftUI · Combine · Realm · StoreKit · CoreML · Firebase (Firebase AI / Gemini) · UserNotifications · MVVM · Python
+
+- Personalized AI feedback powered by on-device and cloud AI
+- Unique 24-hour task lifecycle to keep focus on the present
+- Accessibility-first design with VoiceOver support
+- Freemium subscriptions and a custom paywall
+
+<a href="https://apps.apple.com/de/app/nal/id6763029343?l=en-GB">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store"/>
+</a>
+
+<br clear="right"/>
+
+---
+
+### BeenThere — Save Places
+
+<img align="right" src="https://github.com/user-attachments/assets/4a40d60d-da75-4f57-8cc0-174a0a24c188" width="150" alt="BeenThere: Save Places"/>
+
+
+*A personal place-saving app to keep track of locations you love, discover, and want to remember.*
+
+**Stack:** SwiftUI · SwiftData · MapKit · Share Extension · App Groups · LinkPresentation
+
+- Save and organize memorable places
+- Keep your favorite locations in one place
+- Simple, intuitive interface for managing saved spots
+
+<a href="https://apps.apple.com/de/app/beenthere-save-places/id6807078136?l=en-GB">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store"/>
+</a>
+
+<br clear="right"/>
+
+---
 
 #### SwiftUI + IMGLY CE.SDK Image Editor Demo:
 This is a minimal SwiftUI demo project showcasing integration of CreativeEditor SDK (CE.SDK) using the IMGLYUI-swift package.
